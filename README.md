@@ -2,7 +2,7 @@
 
 ### Software Projects
 
-Mostly deprecated, i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past. 
+I enjoy coding in Python and am an open-source enthusiast. Below i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past (mostly deprecated). 
 
 ##### Image Processing/Computer Graphics:yarn:
 
