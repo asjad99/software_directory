@@ -4,18 +4,6 @@
 
 I enjoy coding in Python and am an open-source enthusiast. Below i have shared some of the my recent Research projects, course projects, side projects, prototypes done in the past (mostly deprecated). 
 
-##### Image Processing/Computer Graphics:yarn:
-
-Some of the other computer vision / Image Processing side-projects/course projects I have done include: 
-
-- [Sketch](https://github.com/asjad99/Sketch): A Microsoft Paint like application
-- [Automated Image Segmentation](https://github.com/asjad99/Image-Processing) - Removing Artificats from images
-- [Rock-Paper-Scissors](https://github.com/asjad99/Rock-Paper-Scissors-) - A Computer game to play rock, paper scissors 
-- [Robo-Soccor](https://github.com/asjad99/robot-soccor) - A NXC Application implemented using Lego 
-- [Mars Terrain Mapping](https://github.com/asjad99/mars_pathfinder_robot),
-- [Education-Unity-Kinect](https://github.com/asjad99/KINEFF) - Using Microsoft Kinect to Control Unity3D simulations
-
-##### Web/Mobile :turtle:
 
 - [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful datasets using twitter API 
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)-
