@@ -6,7 +6,8 @@ I enjoy coding in Python and am an open-source enthusiast. Below i have shared s
 
 
 - [twitter-graph-fetch](https://github.com/asjad99/twitter-graph-fetch)  - For Builing useful datasets using twitter API 
-- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)-
+- [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py)
+-
 [Mohavi](https://github.com/asjad99/Mohavi)
 - [Elastic Search](https://github.com/asjad99/elastic_search) - (Python, elastic search, memcache) name saerch for blockchain
 - GonameCoin (Python-Flask) A distributed key,value DNS registration system built on top of bitcoin's Blockchain
