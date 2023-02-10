@@ -3,6 +3,7 @@
 
 - [Scalable-Topic-Modeling](https://github.com/asjad99/Scalable-Topic-Modeling) - Singular Value Decomposition for Latent Semantic Indexing using PySpark
 - [Goal-Mining](https://github.com/asjad99/know-how-mining) - Mining goal refinement patterns: distilling know-how from data.
+- [Yanga](https://github.com/asjad99/Yanga) - Deep learning toolkit for multi-input multi-output sequence modelling with tensorflow
 - [GA_TSP](https://github.com/asjad99/Genetic-Algorithms) - traveling salesman problem (TSP) using Genetic-Algorithms in C++
 - [Hybrid-CI](https://github.com/asjad99/Hybrid-CI-System) - PCA dimensionality reduction using Genetic algorithms
 - [MLP](https://github.com/asjad99/MLP) - A barebones implementation of an MLP and Backprop algorithm in C++  
