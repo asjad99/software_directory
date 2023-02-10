@@ -17,7 +17,7 @@
 - [Python Crawler](https://github.com/asjad99/datascience-GYM/blob/master/Data_engineering/web_crawler.py) - Python Web Crawler to fetch prices from an e-commerce store 
 - [Elastic Search](https://github.com/asjad99/elastic_search) - (Python, elastic search, memcache) name search for blockchain
 - [GoG](https://github.com/asjad99/rosetta_stone) - A gametree search based decision making framework to acheive strategic resilience
-- [UseScope](https://github.com/asjad99/Mohavi) -Chrome Extension that leverages your linkedIn graph to find existing connections/friends in your graph
+- [UseScope](https://github.com/asjad99/Mohavi) - Chrome Extension that leverages your linkedIn graph to find existing connections/friends in your graph
 - [CoinMarketCap](https://github.com/asjad99/CoinMarketCap) - Keep an Eye on Crypto Market Prices 
-- [insta-print](https://github.com/asjad99/InstaPrint) - Print your instagram images 
-- [Raven](https://github.com/asjad99/Raven) - An instant messenger 
+- [insta-print](https://github.com/asjad99/InstaPrint) - An iPhone app for Printing your instagram images 
+- [Raven](https://github.com/asjad99/Raven) - An instant messenger written for iOS 
