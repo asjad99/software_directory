@@ -1,6 +1,11 @@
 ### Intro
 
-I’m passionate about the intersection of data science and product development. Part of my work involves writing and coding. I use typora, which is a lovely app for writing in markdown format. I also do math. The math is mostly analog, on paper or whiteboard. I sketch most of my ideas out that way.  For development, I use Sublime, Visual Studio Code and Notebooks. I mostly code in Python and have been really impressed with the interactive data modeling tools in iPython lately. Once you try the iPython notebook you won't go back.
+I’m passionate about the intersection of data science and product development. Part of my work involves writing and coding. 
+
+
+I use typora, which is a lovely app for writing in markdown format. I also do math. The math is mostly analog, on paper or whiteboard. I sketch most of my ideas out that way. I like [Sakura Pigma Micron Pens](Sakura Pigma Micron Pens)and Moleskine notebooks.  
+
+For development, I use Sublime, Visual Studio Code and Notebooks. I mostly code in Python and have been really impressed with the interactive data modeling tools in iPython lately. Once you try the iPython notebook you won't go back.
 
 #### Desktop PC Build 
 
@@ -12,23 +17,12 @@ System is powered by Ubuntu 22.04.1 LTS. My input devices include a Logitech G40
 
 Finally i use a Herman Miller Replica chair, which offers excellent lumbar support, adjustable height, and a comfortable seating position for extended periods of use. 
 
+#### Others Tech
 
-#### Laptop (Macbook 15 2017)
+ Laptop (Macbook Air 2023)
 
-Display: 15.4-inch (diagonal) LED-backlit Retina display with IPS technology; 2880- by-1800 native resolution at 220 pixels per inch with support for millions of colors.
+iPad Pro 2020 with Apple pencil 
 
-Processor: 2.8GHz quad-core Intel Core i7, Turbo Boost up to 3.8GHz, with 6MB shared L3 cache.
-
-Memory: 16GB of 2133MHz LPDDR3 onboard memory.
-
-Storage: 512GB PCIe-based onboard SSD.
-
-Graphics: Radeon Pro 555 with 4GB of GDDR5 memory and automatic graphics switching, and Intel HD Graphics 630.
-
-#### Others 
-
-iPad Pro 2020 portable library and internet browser 
-
-Current mobile device: iPhone XS with Airpods Prro
+Current mobile device: iPhone XS with Airpods Pro
 
 Fitness: Apple watch SE 
