@@ -53,3 +53,4 @@ Fitness: Apple watch SE
 Useful links: 
 - https://www.wired.com/story/work-from-home-home-office-gear-guide/
 - https://www.youtube.com/channel/UCIhJnsJ0IHlVNnYfp-gw_5Q 
+- https://usesthis.com/interviews/fred.benenson/ 
