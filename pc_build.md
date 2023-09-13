@@ -42,8 +42,11 @@ I use typora, which is a lovely app for writing in markdown format.
 I also do math. The math is mostly analog, on paper or whiteboard. I sketch most of my ideas out that way. 
 
 
+### Chair 
 Finally i use a Herman Miller Replica chair, which offers excellent lumbar support, adjustable height, and a comfortable seating position for extended periods of use. 
 
+
+### Misc 
 Current mobile device: iPhone XS with 
 Fitness: Apple watch SE 
 
