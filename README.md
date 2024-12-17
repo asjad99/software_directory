@@ -1,7 +1,5 @@
 
-## Pet projects :yarn:
-
-## Software Projects Portfolio :computer:
+## Software Projects and Pet Projects :computer:
 
 I love building things and exploring new programming paradigms. Below are some selected projects/scripts that I wrote, organized by technology:
 
