@@ -31,5 +31,3 @@ I love building things and exploring new programming paradigms. Below are some s
 
 ---
 
-Feel free to add any further details or adjust descriptions if you'd like them to be more specific or highlight particular features. This table format should make your portfolio easy to navigate and presentable to viewers. Let me know if you'd like any further tweaks!
-
