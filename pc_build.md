@@ -28,7 +28,9 @@ I’m passionate about the intersection of data science and product development.
 - Multi-Port Hub
 - BenQ Halo Lightbar
 - Headphones: Airpods Pro
-- Keyboard: Logitech G402 mouse, Keychron K7 keyboard and Logitech MX Mechanical Wireless (looking to buy Nuphy Keyboards: https://nuphy.com next) 
+- Keyboard: Logitech G402 mouse, Keychron K7 keyboard and Logitech MX Mechanical Wireless (looking to buy Nuphy Keyboards: https://nuphy.com next)
+- Stationary: Pilot BegreeN Hi-Tecpoint V5 Rollerball Pen 0.5mm Black, uni Pin Fineliner Pen Black, Weekly Desk Pad, Daily Desk Pad by MiGoals, Time Block Desk Pad
+ 
 
 **Coding:** For development, I use Sublime, Visual Studio Code and Notebooks. I mostly code in Python and have been really impressed with the interactive data modeling tools in iPython lately. Once you try the iPython notebook you won't go back.
 
