@@ -2,7 +2,7 @@
 
 I’m passionate about the intersection of data science and product development. Part of my work involves writing and coding. 
 
-### Personal PC - Desktop Rig 
+### Personal PC - Desktop Rig (Optimised for Deep Learning and AI) 
 
 - Asus Prime B660 Plus DDR4
 - Intel Core i5-12600KF | 4.9 GHz | 10 Cores 16 Threads
