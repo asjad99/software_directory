@@ -32,7 +32,7 @@ I’m passionate about the intersection of data science and product development.
 - Stationary: Pilot BegreeN Hi-Tecpoint V5 Rollerball Pen 0.5mm Black, uni Pin Fineliner Pen Black, Weekly Desk Pad, Daily Desk Pad by MiGoals, Time Block Desk Pad
  
 
-**Coding:** For development, I use Sublime, Visual Studio Code and Notebooks. I mostly code in Python and have been really impressed with the interactive data modeling tools in iPython lately. Once you try the iPython notebook you won't go back.
+**Coding:** For development, I use Sublime, Visual Studio Code and Notebooks. I mostly code in Python and have been really impressed with the interactive data modeling tools in iPython lately.
 
 **Math and Algorithms And Notes:**  I use typora, which is a lovely app for writing in markdown format. 
 I also do math. The math is mostly analog, on paper or whiteboard. I sketch most of my ideas out that way. 
@@ -45,7 +45,7 @@ Fitness: Apple watch SE
 - Dropbox
 - Overleaf 
 - Markdown with Typora
-- Notebooks (yes) 
+- Notebooks 
 
 ---
 
