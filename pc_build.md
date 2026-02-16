@@ -1,8 +1,8 @@
 ### Intro
 
-I’m passionate about the intersection of data science and product development. Part of my work involves writing and coding. 
+I’m passionate about work at the intersection of data science and product development. Part of my work involves writing and coding. 
 
-### Personal PC - Desktop Rig (Optimised for Deep Learning and AI) 
+### Desktop Rig 
 
 - Asus Prime B660 Plus DDR4
 - Intel Core i5-12600KF | 4.9 GHz | 10 Cores 16 Threads
@@ -29,27 +29,34 @@ I’m passionate about the intersection of data science and product development.
 - BenQ Halo Lightbar
 - Headphones: Airpods Pro
 - Keyboard: Logitech G402 mouse, Keychron K7 keyboard and Logitech MX Mechanical Wireless (looking to buy Nuphy Keyboards: https://nuphy.com next)
-- Stationary: Pilot BegreeN Hi-Tecpoint V5 Rollerball Pen 0.5mm Black, uni Pin Fineliner Pen Black, Weekly Desk Pad, Daily Desk Pad by MiGoals, Time Block Desk Pad
- 
+
 
 **Coding:** For development, I use Sublime, Visual Studio Code and Notebooks. I mostly code in Python and have been really impressed with the interactive data modeling tools in iPython lately.
 
-**Math and Algorithms And Notes:**  I use typora, which is a lovely app for writing in markdown format. 
-I also do math. The math is mostly analog, on paper or whiteboard. I sketch most of my ideas out that way. 
 
-**Misc**:
-Current mobile device: iPhone 16 Pro Max  
-Fitness: Apple watch SE 
+<!-- 
+
 
 **Notes:** 
 - Dropbox
 - Overleaf 
 - Markdown with Typora
-- Notebooks 
+- Notebooks
 
----
-
+- 
 Useful links: 
 - https://www.wired.com/story/work-from-home-home-office-gear-guide/
 - https://www.youtube.com/channel/UCIhJnsJ0IHlVNnYfp-gw_5Q 
-- https://usesthis.com/interviews/fred.benenson/ 
+- https://usesthis.com/interviews/fred.benenson/
+
+ Stationary: Pilot BegreeN Hi-Tecpoint V5 Rollerball Pen 0.5mm Black, uni Pin Fineliner Pen Black, Weekly Desk Pad, Daily Desk Pad by MiGoals, Time Block Desk Pad
+
+**Misc**:
+Current mobile device: iPhone 16 Pro Max  
+Fitness: Apple watch SE 
+
+**Math and Algorithms And Notes:**  I use typora, which is a lovely app for writing in markdown format. 
+I also do math. The math is mostly analog, on paper or whiteboard. I sketch most of my ideas out that way. 
+
+
+ -->
